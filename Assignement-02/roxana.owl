@@ -1,0 +1,503 @@
+@prefix : <http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7> .
+
+<http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7> rdf:type owl:Ontology .
+
+
+#################################################################
+#
+#    Object Properties
+#
+#################################################################
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#ActivityIsTrackedByDevice
+
+:ActivityIsTrackedByDevice rdf:type owl:ObjectProperty ;
+                           
+                           rdfs:domain :Activity ;
+                           
+                           owl:inverseOf :DeviceTracksActivity ;
+                           
+                           rdfs:range :Pedometer .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#DeviceTracksActivity
+
+:DeviceTracksActivity rdf:type owl:ObjectProperty ;
+                      
+                      rdfs:range :Activity ;
+                      
+                      rdfs:domain :Pedometer .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#DeviceTracksLocation
+
+:DeviceTracksLocation rdf:type owl:ObjectProperty ;
+                      
+                      rdfs:range :Location ;
+                      
+                      owl:inverseOf :LocationIsTrackedByDevice ;
+                      
+                      rdfs:domain :Pedometer .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#DeviceUsedBy
+
+:DeviceUsedBy rdf:type owl:ObjectProperty ;
+              
+              rdfs:range :Human ;
+              
+              owl:inverseOf :IsUsingDevice ;
+              
+              rdfs:domain :Pedometer .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#IsUsingDevice
+
+:IsUsingDevice rdf:type owl:ObjectProperty ;
+               
+               rdfs:domain :Human ;
+               
+               rdfs:range :Pedometer .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#LocationIsTrackedByDevice
+
+:LocationIsTrackedByDevice rdf:type owl:ObjectProperty ;
+                           
+                           rdfs:domain :Location ;
+                           
+                           rdfs:range :Pedometer .
+
+
+
+
+
+#################################################################
+#
+#    Data properties
+#
+#################################################################
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Activity
+
+:Activity rdf:type owl:DatatypeProperty .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Human
+
+:Human rdf:type owl:DatatypeProperty .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#HumanAge
+
+:HumanAge rdf:type owl:DatatypeProperty ;
+          
+          rdfs:domain :Human ;
+          
+          rdfs:subPropertyOf :Human .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#HumanGender
+
+:HumanGender rdf:type owl:DatatypeProperty ;
+             
+             rdfs:subPropertyOf :Human ;
+             
+             rdfs:domain :Human .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#HumanName
+
+:HumanName rdf:type owl:DatatypeProperty ;
+           
+           rdfs:domain :Human ;
+           
+           rdfs:subPropertyOf :Human .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#HumanWeight
+
+:HumanWeight rdf:type owl:DatatypeProperty ;
+             
+             rdfs:domain :Human ;
+             
+             rdfs:subPropertyOf :Human .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location
+
+:Location rdf:type owl:DatatypeProperty .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Pedometer
+
+:Pedometer rdf:type owl:DatatypeProperty .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#XCoordinate
+
+:XCoordinate rdf:type owl:DatatypeProperty ;
+             
+             rdfs:subPropertyOf :Location .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#YCoordinate
+
+:YCoordinate rdf:type owl:DatatypeProperty ;
+             
+             rdfs:subPropertyOf :Location .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#ZCoordinate
+
+:ZCoordinate rdf:type owl:DatatypeProperty ;
+             
+             rdfs:subPropertyOf :Location .
+
+
+
+
+
+#################################################################
+#
+#    Classes
+#
+#################################################################
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Activity
+
+:Activity rdf:type owl:Class .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#BrushTeeth
+
+:BrushTeeth rdf:type owl:Class ;
+            
+            rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#ClimbStairs
+
+:ClimbStairs rdf:type owl:Class ;
+             
+             rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#CombHair
+
+:CombHair rdf:type owl:Class ;
+          
+          rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#DescendStair
+
+:DescendStair rdf:type owl:Class ;
+              
+              rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#DrinkGlass
+
+:DrinkGlass rdf:type owl:Class ;
+            
+            rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#EatMeat
+
+:EatMeat rdf:type owl:Class ;
+         
+         rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#EatSoup
+
+:EatSoup rdf:type owl:Class ;
+         
+         rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#GetupBed
+
+:GetupBed rdf:type owl:Class ;
+          
+          rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Human
+
+:Human rdf:type owl:Class .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#LiedownBed
+
+:LiedownBed rdf:type owl:Class ;
+            
+            rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location
+
+:Location rdf:type owl:Class .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Pedometer
+
+:Pedometer rdf:type owl:Class .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#PourWater
+
+:PourWater rdf:type owl:Class ;
+           
+           rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#SitdownChair
+
+:SitdownChair rdf:type owl:Class ;
+              
+              rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#StandupChair
+
+:StandupChair rdf:type owl:Class ;
+              
+              rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#UseTelephone
+
+:UseTelephone rdf:type owl:Class ;
+              
+              rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Walk
+
+:Walk rdf:type owl:Class ;
+      
+      rdfs:subClassOf :Activity .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#XCoordinate
+
+:XCoordinate rdf:type owl:Class ;
+             
+             rdfs:subClassOf :Location .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#YCoordinate
+
+:YCoordinate rdf:type owl:Class ;
+             
+             rdfs:subClassOf :Location .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#ZCoordinate
+
+:ZCoordinate rdf:type owl:Class ;
+             
+             rdfs:subClassOf :Location .
+
+
+
+
+
+#################################################################
+#
+#    Individuals
+#
+#################################################################
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#ActivityWalk
+
+:ActivityWalk rdf:type owl:NamedIndividual ;
+              
+              :Activity "Walk" .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location-01
+
+:Location-01 rdf:type :Location ,
+                      owl:NamedIndividual ;
+             
+             :XCoordinate 32 ;
+             
+             :ZCoordinate 41 ;
+             
+             :YCoordinate 48 .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location-02
+
+:Location-02 rdf:type :Location ,
+                      owl:NamedIndividual ;
+             
+             :ZCoordinate 32 ;
+             
+             :XCoordinate 32 ;
+             
+             :YCoordinate 48 .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location-03
+
+:Location-03 rdf:type :Location ,
+                      owl:NamedIndividual ;
+             
+             :XCoordinate 32 ;
+             
+             :ZCoordinate 39 ;
+             
+             :YCoordinate 44 .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location-04
+
+:Location-04 rdf:type :Location ,
+                      owl:NamedIndividual ;
+             
+             :XCoordinate 32 ;
+             
+             :ZCoordinate 39 ;
+             
+             :YCoordinate 47 .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#Location-05
+
+:Location-05 rdf:type :Location ,
+                      owl:NamedIndividual ;
+             
+             :XCoordinate 31 ;
+             
+             :ZCoordinate 39 ;
+             
+             :YCoordinate 50 .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#PedometerDevice
+
+:PedometerDevice rdf:type owl:NamedIndividual ;
+                 
+                 :DeviceTracksActivity :ActivityWalk ;
+                 
+                 :DeviceTracksLocation :Location-01 ,
+                                       :Location-02 ,
+                                       :Location-03 ,
+                                       :Location-04 ,
+                                       :Location-05 ;
+                 
+                 :DeviceUsedBy :RoxanaOhriniuc .
+
+
+
+###  http://www.semanticweb.org/eclipse/ontologies/2015/6/untitled-ontology-7#RoxanaOhriniuc
+
+:RoxanaOhriniuc rdf:type :Human ,
+                         owl:NamedIndividual ;
+                
+                :HumanWeight 125 ;
+                
+                :HumanAge 30 ;
+                
+                :HumanGender "Female" ;
+                
+                :HumanName "Roxana Ohriniuc" .
+
+
+
+
+
+#################################################################
+#
+#    Annotations
+#
+#################################################################
+
+
+:Location rdfs:comment "Location X,Y,Z tracked by pedometer" .
+
+
+
+:Activity rdfs:comment "Activity tracked by pedometer and performed by human" .
+
+
+
+:XCoordinate rdfs:comment "X-Axis" .
+
+
+
+:ZCoordinate rdfs:comment "Z-Axis" .
+
+
+
+:Pedometer rdfs:comment "Device owned by human tracking activity and location" .
+
+
+
+:Human rdfs:comment "person using pedometer and performing activity" .
+
+
+
+:YCoordinate rdfs:comment "Y-Axis" .
+
+
+
+
+###  Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net
+
