@@ -1,0 +1,374 @@
+1291938	1932-02-26	female	Young, Carol
+PROBLEMS:  Primary malignant neoplasm of female breast;  Breast lump;  Carcinoma in situ of breast;  Needs influenza immunization;  Asymptomatic postmenopausal status (age-related) (natural);  Ovarian failure;  Senile nuclear sclerosis;  Neoplasm of breast;  Postprocedural state finding;  H/O: artificial eye lens;  Abnormal weight loss;  Essential hypertension;  Hyperlipidemia;  
+MEDICATIONS:  None 
+LABS:  None 
+
+1288992	1925-12-23	male	Adams, Daniel
+PROBLEMS:  Amnesia;  Benign essential hypertension;  Osteoarthritis;  Other persistent mental disorders due to conditions classified elsewhere;  Vascular dementia, uncomplicated;  Essential hypertension;  Disorder of lung;  Alzheimer's disease;  Dementia associated with another disease;  Needs influenza immunization;  
+MEDICATIONS:  Lisinopril 20 MG Oral Tablet{5};  Memantine 10 MG Oral Tablet [Namenda]{4};  donepezil 10 MG Oral Tablet [Aricept]{5};  Hydrochlorothiazide 50 MG Oral Tablet{5};  potassium citrate 10 MEQ Extended Release Tablet{4};  
+LABS:  46 results
+
+
+2502813	1934-02-07	female	Owens, Dorothy
+PROBLEMS:  Acute upper respiratory infection;  Chronic obstructive lung disease;  Essential hypertension;  Tobacco dependence syndrome;  Arthralgia of the ankle and/or foot;  Family history of malignant neoplasm of gastrointestinal tract;  History of polyp of colon;  Female stress incontinence;  Open wound of forearm without complication;  
+MEDICATIONS:  Atenolol 100 MG Oral Tablet{4};  Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Tablet{5};  tiotropium 0.018 MG/ACTUAT Inhalant Powder [Spiriva]{2};  120 ACTUAT Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort 80/4.5]{3};  24 HR Nisoldipine 8.5 MG Extended Release Tablet [Sular]{3};  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin HFA]{2};  Doxycycline 100 MG Oral Tablet{1};  Potassium Chloride 10 MEQ Extended Release Capsule{3};  Acetaminophen 500 MG / Hydrocodone 5 MG Oral Tablet{1};  
+LABS:  94 results
+
+
+1642068	1940-12-14	female	Davis, Betty
+PROBLEMS:  Benign neoplasm of stomach;  Essential hypertension;  Gastritis;  Hypothyroidism;  Other specified disorders of stomach and duodenum;  Pernicious anemia;  Abnormal mammogram, unspecified;  Osteoarthritis;  Pain in limb;  Exostosis of unspecified site;  H/O: penicillin allergy;  
+MEDICATIONS:  Thyroxine 0.112 MG Oral Tablet [Levoxyl]{5};  Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet [Avalide 150/12.5]{1};  pantoprazole 40 MG Enteric Coated Tablet{2};  Ranitidine 150 MG Oral Tablet{5};  Alendronate 70 MG Oral Tablet{5};  Simvastatin 20 MG Oral Tablet{4};  Diclofenac 75 MG / Misoprostol 0.2 MG Enteric Coated Tablet [Arthrotec 75/200]{4};  Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet{3};  120 ACTUAT mometasone furoate 0.05 MG/ACTUAT Nasal Inhaler [Nasonex]{3};  pantoprazole 40 MG Enteric Coated Tablet [Protonix]{3};  Lisinopril 20 MG Oral Tablet{2};  
+LABS:  28 results
+
+
+1272431	1945-05-01	male	Graham, Stephan
+PROBLEMS:  Primary malignant neoplasm of prostate;  Viral disease;  Acute upper respiratory infection;  Hyperlipidemia;  Hemorrhage of rectum and anus;  Sensorineural hearing loss;  Benign neoplasm of colon;  Diverticular disease of colon;  Internal hemorrhoids without mention of complication;  Primary malignant neoplasm of kidney;  Low back pain;  Shoulder joint pain;  Malaise and fatigue;  
+MEDICATIONS:  None 
+LABS:  57 results
+
+
+8888801	1953-03-17	male	Jones, Philip
+PROBLEMS:  Diabetes Mellitus, Type 2;  Rosacea;  Aortic insufficiency;  Erectile dysfunction;  Hyperlipidemia;  Vitamin D deficiency;  Acute sinusitis;  Urethritis;  
+MEDICATIONS:  ActoPlusMet 500/15mg{0};  Cialis 20mg{0};  Vitamin D3 2000 iu{0};  Atorvastatin 20mg{0};  Atorvastatin 40mg{0};  Omnicef 300mg{0};  Metrocream 0.75%{0};  Ceftriaxone 500mg{0};  Doxycycline{0};  
+LABS:  265 results
+
+
+2080416	2003-12-14	male	Shaw, Joseph
+PROBLEMS:  Vomiting;  Feeding difficulties and mismanagement;  Feeding problems in newborn;  Cough;  Finding of head and neck region;  Apnea;  Acute secretory otitis media;  Fever and other physiologic disturbances of temperature regulation;  Otitis media;  
+MEDICATIONS:  Erythromycin 0.005 MG/MG Ophthalmic Ointment{1};  Amoxicillin 50 MG/ML Oral Suspension{1};  Albuterol 0.83 MG/ML Inhalant Solution{2};  
+LABS:  None 
+
+99912345	2004-10-15	male	Vitalis, Allen
+PROBLEMS:  otitis media;  foreign body in larynx;  
+MEDICATIONS:  Cefdinir 25 MG/ML Oral Suspension{0};  Permethrin 10 MG/ML Topical Lotion{0};  
+LABS:  2 results
+
+
+1614502	2006-11-22	female	Williams, Susan
+PROBLEMS:  Cervicitis and endocervicitis;  Diaper rash;  Otitis media;  Foreign body in larynx;  Vomiting;  Acute upper respiratory infection;  General well-being finding;  Other and unspecified noninfectious gastroenteritis and colitis;  
+MEDICATIONS:  Amoxicillin 40 MG/ML Oral Suspension{1};  Clotrimazole 10 MG/ML Topical Cream{2};  Amoxicillin 25 MG/ML Oral Suspension{1};  cefdinir 25 MG/ML Oral Suspension{1};  Ibuprofen 20 MG/ML Oral Suspension{1};  Amoxicillin 80 MG/ML Oral Suspension{3};  Permethrin 10 MG/ML Topical Lotion{2};  
+LABS:  None 
+
+1951076	1981-08-10	male	Williams, Charles
+PROBLEMS:  Migraine;  Other and unspecified noninfectious gastroenteritis and colitis;  Nausea and vomiting;  Open wound of knee, leg [except thigh], and ankle, without mention of complication;  Orthostatic hypotension;  Anorexia;  Clinical finding;  Depressive disorder;  Seizure;  Cannabis dependence;  
+MEDICATIONS:  None 
+LABS:  44 results
+
+
+1557780	1933-06-16	male	Thomas, William
+PROBLEMS:  Mature cataract;  Pulmonary emphysema;  Tobacco dependence syndrome;  Chronic obstructive lung disease;  Other dyspnea and respiratory abnormality;  Emphysematous bronchitis;  Acute bronchitis;  Chronic asthmatic bronchitis;  Essential hypertension;  Gastroesophageal reflux disease;  
+MEDICATIONS:  Methylprednisolone 4 MG Oral Tablet{2};  Chlorpheniramine 1.6 MG/ML / Hydrocodone 2 MG/ML Extended Release Suspension [Tussionex PennKinetic]{1};  Chantix First Month of Therapy Pack{1};  moxifloxacin 400 MG Oral Tablet [Avelox]{1};  Prednisone 20 MG Oral Tablet{3};  Hydroxyzine 25 MG Oral Capsule{2};  Prednisone 10 MG Oral Tablet{2};  Cefuroxime 500 MG Oral Tablet{1};  Methylprednisolone 4 MG Oral Tablet{1};  Ciprofloxacin 500 MG Oral Tablet{3};  Omeprazole 40 MG Enteric Coated Capsule{2};  tiotropium 0.018 MG/ACTUAT Inhalant Powder [Spiriva]{2};  Doxycycline 100 MG Oral Capsule{1};  
+LABS:  150 results
+
+
+1627321	1953-09-05	male	Taylor, Frank
+PROBLEMS:  Diabetes mellitus type 2;  Articular gout;  Displacement of lumbar intervertebral disc without myelopathy;  Essential hypertension;  FH: Arthritis;  FH: Diabetes mellitus;  Low back pain;  Morbid obesity;  Nausea and vomiting;  Pain in limb;  
+MEDICATIONS:  None 
+LABS:  259 results
+
+
+8888804	1950-07-06	male	McKay, George
+PROBLEMS:  Benign prostatic hypertrophy;  Joint pain, lower leg;  Gout;  Impaired fasting glucose;  
+MEDICATIONS:  Flomax 0.4 mg{0};  Terazosin 5mg{0};  Naproxen 500mg{0};  Celebrex 200mg{0};  Allopurinol 100mg{0};  Allopurinol 100mg{0};  Metformin XR 500mg{0};  
+LABS:  209 results
+
+
+9995679	1989-10-26	male	Alexis, Aaron
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  None 
+
+731673	1949-09-22	female	Graham, Sarah
+PROBLEMS:  Acute sinusitis;  Allergic rhinitis;  Dizziness and giddiness;  Other diseases of nasal cavity and sinuses;  Arthropathy;  Myalgia and myositis, unspecified;  Anxiety;  Benign essential hypertension;  Depressive disorder;  Urinary tract infectious disease;  Headache;  Essential hypertension;  Hyperlipidemia;  Peripheral vertigo;  Sensorineural hearing loss;  
+MEDICATIONS:  Cetirizine 10 MG Oral Tablet [Zyrtec]{1};  Levofloxacin 500 MG Oral Tablet [Levaquin]{1};  Promethazine 25 MG Oral Tablet{1};  Trazodone 50 MG Oral Tablet{20};  montelukast 10 MG Oral Tablet [Singulair]{1};  valdecoxib 20 MG Oral Tablet [Bextra]{2};  Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Tablet{8};  Lisinopril 20 MG Oral Tablet{8};  duloxetine 60 MG Enteric Coated Capsule [Cymbalta]{5};  Acetaminophen 650 MG / propoxyphene napsylate 100 MG Oral Tablet{1};  Meclizine 25 MG Oral Tablet{2};  Nitrofurantoin 100 MG Oral Capsule{1};  120 ACTUAT Triamcinolone 0.055 MG/ACTUAT Nasal Inhaler [Nasacort]{0};  
+LABS:  None 
+
+8888803	1982-09-16	female	Walker, Kristyn
+PROBLEMS:  Iron deficiency anemia;  Hypothyroidism;  Vitamin D deficiency;  Contraceptive pill surveillance;  UTI;  Acute phargygitis;  Fever;  
+MEDICATIONS:  Ferrous gluconate 325mg{0};  Synthroid 25mcg{0};  Synthroid 50mcg{0};  Synthroid 75mcg{0};  Alesse{0};  vitamin D3 2000 iu{0};  multivitamin {0};  Macrobid 100mg{0};  Amoxicillin 875mg{0};  
+LABS:  204 results
+
+
+8888802	1975-05-20	female	Westin, Tiffany
+PROBLEMS:  Asthma;  Allergic rhinitis;  Tobacco use disorder;  Hypertension, benign;  Depression;  Acute Bronchitis;  Impaired fasting glucose;  Acute Vaginitis;  
+MEDICATIONS:  Advair discus 250/50{0};  Ventolin HFA{0};  Singulair 10mg{0};  Allegra{0};  Chantix starter kit{0};  Chantix 1mg{0};  Lexapro 10mg{0};  lisinopril 20mg{0};  Diovan 160mg{0};  Augmentin 875mg{0};  EpiPen{0};  Metrogel-Vaginal{0};  
+LABS:  282 results
+
+
+1032702	2007-03-20	female	Shaw, Amy
+PROBLEMS:  Single liveborn, born in hospital, delivered without mention of cesarean section;  Abnormal weight loss;  Follow-up encounter;  Gastroesophageal reflux disease;  Needs influenza immunization;  
+MEDICATIONS:  Nizatidine 15 MG/ML Oral Solution [Axid]{0};  
+LABS:  None 
+
+7777704	2003-08-16	female	Revis, Kimberly
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  1 results
+
+
+665677	1951-08-23	female	Black, Ruth
+PROBLEMS:  Benign essential hypertension;  Malaise and fatigue;  Backache;  Hematuria syndrome;  Chronic nonalcoholic liver disease;  Unspecified disorder of kidney and ureter;  Disorder of lung;  History of malignant neoplasm of kidney;  Primary malignant neoplasm of kidney;  Diabetes mellitus type 2;  Essential hypertension;  Heart disease;  History of malignant neoplasm of cervix;  Insomnia;  Subacute hepatic failure;  Dysthymia;  
+MEDICATIONS:  Atenolol 100 MG Oral Tablet{10};  Guanfacine 1 MG Oral Tablet{19};  Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet{17};  Guanfacine 2 MG Oral Tablet{2};  24 HR Bupropion 150 MG Extended Release Tablet [Budeprion]{2};  24 HR Bupropion 150 MG Extended Release Tablet{1};  Leflunomide 10 MILLIGRAM In 1 TABLET ORAL TABLET, FILM COATED{0};  
+LABS:  156 results
+
+
+2347217	1948-07-15	male	Coleman, Steven
+PROBLEMS:  Benign essential hypertension;  Hyperlipidemia;  Chest pain;  Chest pain;  Essential hypertension;  Finding of frequency of urination;  Diverticular disease of colon;  
+MEDICATIONS:  None 
+LABS:  56 results
+
+
+7777701	2011-09-16	male	Richey, Steve
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  None 
+
+7777702	2008-10-01	female	Warren, Yolanda
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  None 
+
+1796238	1960-03-11	male	Shaw, Anthony
+PROBLEMS:  Acute respiratory failure;  Chronic asthmatic bronchitis;  Dehydration;  Diabetes mellitus type 2;  Essential hypertension;  Paralytic ileus;  
+MEDICATIONS:  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir HFA]{3};  sildenafil 100 MG Oral Tablet [Viagra]{2};  
+LABS:  413 results
+
+
+1213208	1965-06-22	male	Gracia, Brian
+PROBLEMS:  Neck pain;  Spasm;  Unspecified local infection of skin and subcutaneous tissue;  Benign essential hypertension;  Cellulitis and abscess of leg;  Gastro-esophageal reflux disease with esophagitis;  Abdominal pain;  Joint effusion of the lower leg;  Lymphadenitis;  Cellulitis and abscess of face;  
+MEDICATIONS:  None 
+LABS:  None 
+
+1768562	1939-08-30	male	Lee, Carl
+PROBLEMS:  Atrial fibrillation;  Chest pain;  Chronic pulmonary heart disease;  Congestive rheumatic heart failure;  Coronary arteriosclerosis;  Dilated cardiomyopathy secondary to alcohol;  FH: Cardiac disorder;  Hypertensive heart disease, unspecified, without heart failure;  Sinus node dysfunction;  Tobacco dependence syndrome;  Cardiomyopathy;  Depressive disorder;  History of tobacco use;  Hyperlipidemia;  Chronic obstructive lung disease;  
+MEDICATIONS:  carvedilol 25 MG Oral Tablet{13};  Digoxin 0.25 MG Oral Tablet [Lanoxin]{13};  Cyclobenzaprine hydrochloride 10 MG Oral Tablet{5};  Warfarin 5 MG Oral Tablet [Coumadin]{8};  celecoxib 200 MG Oral Capsule [Celebrex]{4};  Ramipril 10 MG Oral Capsule{4};  Digoxin 0.25 MG Oral Tablet{1};  Furosemide 20 MG Oral Tablet{6};  
+LABS:  85 results
+
+
+2113340	1961-02-11	female	Green, Sharon
+PROBLEMS:  Malaise and fatigue;  Enthesopathy;  Diabetes mellitus type 2;  Hyperlipidemia;  Acute myocardial infarction;  Precordial pain;  
+MEDICATIONS:  Naproxen 500 MG Oral Tablet{1};  Nitroglycerin 0.4 MG Sublingual Tablet{1};  Metoprolol 25 MG Oral Tablet{1};  clopidogrel 75 MG Oral Tablet [Plavix]{7};  atorvastatin 80 MG Oral Tablet [Lipitor]{7};  Lisinopril 5 MG Oral Tablet{6};  carvedilol 3.13 MG Oral Tablet{6};  Metronidazole 500 MG Oral Tablet{1};  Urea 400 MG/ML Topical Cream{1};  Desonide 0.0005 MG/MG Topical Ointment{1};  
+LABS:  99 results
+
+
+7321938	2010-12-16	male	Himston, Billie
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  6 results
+
+
+2081539	1927-12-11	female	Wilson, Michelle
+PROBLEMS:  Atrial fibrillation;  Benign neoplasm of colon;  Diverticular disease of colon;  Essential hypertension;  History of polyp of colon;  Osteoarthritis;  Anal and rectal polyp;  Diabetes mellitus type 2;  External hemorrhoids without complication;  History of tobacco use;  
+MEDICATIONS:  None 
+LABS:  2 results
+
+
+1520204	1939-09-14	female	James, Helen
+PROBLEMS:  Arthralgia of the pelvic region and thigh;  Chronic obstructive lung disease;  Essential hypertension;  Osteoarthrosis, unspecified whether generalized or localized, involving pelvic region and thigh;  Tobacco dependence syndrome;  Hyperlipidemia;  Osteoarthritis;  Acute conjunctivitis;  Allergy;  Backache;  Bronchitis;  Chest pain;  Cough;  Arthralgia of the lower leg;  Benign essential hypertension;  Pure hypercholesterolemia;  Acute exacerbation of chronic obstructive airways disease;  Arthropathy;  
+MEDICATIONS:  None 
+LABS:  66 results
+
+
+2169591	1979-12-21	female	Lewis, Karen
+PROBLEMS:  Acne;  Hypothyroidism;  Thyrotoxicosis without goiter OR other cause;  Abnormal results of thyroid function studies;  Leukorrhea;  Papanicolaou smear of cervix with atypical squamous cells of undetermined significance (ASC-US);  Herpes simplex without complication;  Hyperlipidemia;  Allergy;  Swelling, mass, or lump in head and neck;  
+MEDICATIONS:  Doxycycline 100 MG Oral Tablet{1};  Sertraline 100 MG Oral Tablet [Zoloft]{5};  Yasmin 28 Day Pack{1};  tazarotene 1 MG/ML Topical Cream [Tazorac]{0};  Doxycycline 100 MG Oral Capsule{2};  Benzoyl Peroxide 0.05 MG/MG / Clindamycin 0.01 MG/MG Topical Gel [Benzaclin]{0};  Low-Ogestrel 28 Day Pack{4};  Metronidazole 250 MG Oral Tablet{1};  Alprazolam 0.25 MG Oral Tablet{1};  Apri 28 Day Pack{8};  Sertraline 100 MG Oral Tablet{5};  Ciprofloxacin 500 MG Oral Tablet{1};  
+LABS:  10 results
+
+
+1134281	2004-10-15	male	Taylor, Patrick
+PROBLEMS:  Neonatal jaundice associated with preterm delivery;  Perinatal cyanotic attacks;  Respiratory distress syndrome in the newborn;  Scalp injury;  Single liveborn, born in hospital, delivered without mention of cesarean section;  Neonatal jaundice;  Jaundice;  Acute upper respiratory infection;  Gastroesophageal reflux disease;  Otitis media;  Other and unspecified noninfectious gastroenteritis and colitis;  Acute sinusitis;  
+MEDICATIONS:  Amoxicillin 50 MG/ML Oral Suspension{0};  carbinoxamine 1 MG/ML / Dextromethorphan 4 MG/ML / Pseudoephedrine 15 MG/ML Oral Solution [Carbofed DM Drops]{0};  Metoclopramide 1 MG/ML Oral Solution{0};  Ranitidine 15 MG/ML Oral Solution [Zantac]{0};  Amoxicillin 80 MG/ML Oral Suspension{0};  Mupirocin 0.02 MG/MG Topical Ointment{1};  Amoxicillin 40 MG/ML / Clavulanate 5.7 MG/ML Oral Suspension{1};  
+LABS:  68 results
+
+
+935270	1953-02-21	male	Lewis, Stephan
+PROBLEMS:  Abnormal ECG;  Asthenia;  Chest pain;  Cough;  Essential hypertension;  Coronary arteriosclerosis;  Chronic ischemic heart disease;  Hyperlipidemia;  Cellulitis and abscess of upper arm and forearm;  Contusion of forearm;  Disorder of cardiovascular system;  Other and unspecified injury to elbow, forearm, and wrist;  Pain in limb;  
+MEDICATIONS:  lansoprazole 30 MG Enteric Coated Capsule [Prevacid]{4};  clopidogrel 75 MG Oral Tablet [Plavix]{25};  Lisinopril 2.5 MG Oral Tablet{7};  valsartan 80 MG Oral Tablet [Diovan]{24};  atorvastatin 20 MG Oral Tablet [Lipitor]{26};  Metoprolol 25 MG Extended Release Tablet{16};  Amoxicillin 875 MG / Clavulanate 125 MG Oral Tablet{1};  24 HR Metoprolol 25 MG Extended Release Tablet [Toprol-XL]{1};  
+LABS:  None 
+
+5555001	1958-05-13	female	Love, Penny
+PROBLEMS:  None 
+MEDICATIONS:  Levemir Flexpen{0};  Levemir Flexpen{0};  Novolog Flexpen{0};  Escitalopram Tablet 20mg{0};  Escitalopram Tablet 10mg{0};  Bumetanide Tablet 1 mg{0};  Bumetanide Tablet 1 mg{0};  Losartan Tablet 100mg{0};  Carvedilol Tablet 25mg{0};  Minoxidil Tablet 2.5mg{0};  Clonidine HCl Tablet 0.1 mg{0};  Allopurinol Tablet 300mg{0};  Simcor (simvastatin/niacinER) Tablet 40/500mg{0};  Simvastatin Tablet 40mg{0};  Ergocalciferol Capsule 50,000 iu{0};  Ergocalciferol Capsule 50,000 iu{0};  Aspirin Tablet 81mg{0};  Clonazepam Tablet 0.5mg{0};  
+LABS:  None 
+
+767980	1953-08-29	male	Moore, Thomas
+PROBLEMS:  Chest pain;  Essential hypertension;  H/O: peptic ulcer;  Painful respiration;  Pure hypercholesterolemia;  Tobacco dependence syndrome;  Bronchitis;  Blood chemistry abnormal;  Acute upper respiratory infection;  Diabetes mellitus type 2;  Needs influenza immunization;  Incomplete emptying of bladder;  
+MEDICATIONS:  Cephalexin 500 MG Oral Capsule{3};  Metoprolol 50 MG Oral Tablet{1};  Guaifenesin 600 MG / Phenylephrine 30 MG Extended Release Tablet [Crantex LA]{1};  Metformin 500 MG Oral Tablet{3};  Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution{0};  24 HR Glipizide 2.5 MG Extended Release Tablet{1};  ezetimibe 10 MG / Simvastatin 40 MG Oral Tablet [Vytorin]{1};  ezetimibe 10 MG Oral Tablet [Zetia]{2};  rosuvastatin 10 MG Oral Tablet [Crestor]{1};  Acetaminophen 650 MG / propoxyphene napsylate 100 MG Oral Tablet{1};  
+LABS:  22 results
+
+
+981968	1956-03-23	male	Brooks, Brian
+PROBLEMS:  Low back pain;  Lumbar sprain;  Asthma;  Pure hypercholesterolemia;  Calcaneal spur;  Lateral epicondylitis;  Pain in limb;  Gout;  Hair and hair follicle diseases;  Malaise and fatigue;  Dizziness and giddiness;  Duodenal ulcer without hemorrhage, without perforation AND without obstruction;  Gastroesophageal reflux disease;  
+MEDICATIONS:  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler{0};  Cyclobenzaprine hydrochloride 10 MG Oral Tablet{1};  Acetaminophen 500 MG / Hydrocodone 5 MG Oral Tablet{1};  Etodolac 400 MG Extended Release Tablet{1};  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir HFA]{0};  carbinoxamine 0.4 MG/ML / Hydrocodone 1 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Histex HC]{0};  mometasone furoate 1 MG/ML Topical Cream{0};  Cephalexin 500 MG Oral Capsule{1};  
+LABS:  None 
+
+1098667	1953-10-27	male	Hill, Robert
+PROBLEMS:  Acute maxillary sinusitis;  Acute sinusitis;  Headache;  Migraine without aura;  Hyperlipidemia;  Blood chemistry abnormal;  Hemangioma;  Pure hypercholesterolemia;  Family history of malignant neoplasm of gastrointestinal tract;  History of polyp of colon;  Benign neoplasm of skin of face;  Benign neoplasm of skin of trunk;  
+MEDICATIONS:  Estrogens, Conjugated (USP) 0.625 MG Oral Tablet [Premarin]{1};  Acetaminophen 300 MG / Codeine 30 MG Oral Tablet{1};  fexofenadine 180 MG Oral Tablet{4};  Hydrocortisone 25 MG/ML Rectal Cream [Proctozone HC]{1};  Hydrocortisone 25 MG/ML / pramoxine 10 MG/ML Topical Cream{1};  
+LABS:  None 
+
+2354220	1959-07-10	female	Young, Lisa
+PROBLEMS:  Anemia;  Dysmenorrhea;  Endometriosis of uterus;  Excessive and frequent menstruation;  Intramural leiomyoma of uterus;  Subserous leiomyoma of uterus;  Tobacco dependence syndrome;  Urinary symptoms;  Chest pain;  Chronic obstructive lung disease;  Hyperlipidemia;  
+MEDICATIONS:  Cephalexin 500 MG Oral Capsule{1};  Codeine 2 MG/ML / Promethazine 1.25 MG/ML Oral Solution{4};  Amoxicillin 875 MG / Clavulanate 125 MG Oral Tablet{1};  Naloxone 0.5 MG / Pentazocine 50 MG Oral Tablet{2};  Estrogens, Conjugated (USP) 1.25 MG Oral Tablet [Premarin]{4};  
+LABS:  65 results
+
+
+7777705	2012-08-24	female	Montgomery, Angela
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  None 
+
+5555003	1952-05-12	female	Hoffman, Mildred
+PROBLEMS:  None 
+MEDICATIONS:  Carvedilol Tablet 25mg{0};  Irbesartan Tablet 300mg{0};  losartan Tablet 100mg{0};  Aspirin Tablet 81mg{0};  Brilinta Tablet 90mg{0};  Omeprazole Delayed Release Tablet 20mg{0};  Synthroid Tablet 50mcg{0};  Synthroid Tablet 25mcg{0};  Systane ophthalmic solution{0};  ProAir HFA{0};  Flovent 100mcg/inh{0};  Advair 100/50{0};  Zetia Tablet 10mg{0};  Crestor Tablet 10mg{0};  Fish Oil Capsule 1000mg{0};  Metamucil Sugar-Free{0};  Vitamin D3 Capsule 5000 iu{0};  Ergocalciferol Capsule 50,000 iu{0};  
+LABS:  None 
+
+5555002	1967-01-02	male	Peters, Michael
+PROBLEMS:  None 
+MEDICATIONS:  Atorvastatin Tablet 80mg{0};  Zetia Tablet 10mg{0};  Niacin ER Tablet 500mg{0};  Kombiglyze XR Tablet 5/500mg{0};  Metformin XR Tablet 1000mg{0};  Metformin XR Tablet 500mg{0};  Bydureon 2mg per 0.65 ml prefilled pen{0};  Verapamil SR Tablet 240mg{0};  Bystolic Tablet 10mg{0};  Ramipril Tablet 10mg{0};  Nasonex Nasal Inhaler{0};  Xyzal Tablet 5mg{0};  Alvesco Metered Dose Inhaler 80mcg/puff{0};  Ventolin HFA (200 actuations){0};  Vitamin D3 Capsule 4000 iu{0};  Ergocalciferol Capsule 50,000 iu{0};  Calcium Acetate 500mg{0};  Ibuprofen Capsule 800mg{0};  Cyclobenzaprine Tablet 10mg{0};  Zolpidem Tablet 10mg{0};  
+LABS:  None 
+
+2004454	2007-07-15	male	Lee, Kevin
+PROBLEMS:  Single liveborn, born in hospital, delivered without mention of cesarean section;  Abnormal weight loss;  Diaper rash;  Acute upper respiratory infection;  Otitis media;  Nausea and vomiting;  Viral disease;  
+MEDICATIONS:  None 
+LABS:  6 results
+
+
+1186747	1995-02-22	male	Johnson, Daniel
+PROBLEMS:  Accidental burning caused by caustic and corrosive substance;  Acute atopic conjunctivitis;  Attention deficit hyperactivity disorder;  Acute upper respiratory infection;  Otalgia;  Constipation;  Asthma;  Cough;  Hemoptysis;  Tic disorder;  Abnormal involuntary movement;  
+MEDICATIONS:  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler{0};  moxifloxacin 5 MG/ML Ophthalmic Solution [Vigamox]{0};  24 HR Methylphenidate 18 MG Extended Release Tablet [Concerta]{11};  Ciprofloxacin 3 MG/ML / Dexamethasone 1 MG/ML Otic Suspension [Ciprodex]{0};  atomoxetine 18 MG Oral Capsule [Strattera]{4};  atomoxetine 25 MG Oral Capsule [Strattera]{6};  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir HFA]{0};  
+LABS:  None 
+
+1482713	2000-12-27	female	Clark, Susan
+PROBLEMS:  Eruption;  Acute upper respiratory infection;  Otitis media;  Insect bite, nonvenomous, of other, multiple, and unspecified sites, without mention of infection;  Other diseases of nasal cavity and sinuses;  Contact dermatitis and other eczema, unspecified cause;  Poliomyelitis vaccination;  Disruptive behavior disorder;  Other specified pervasive developmental disorders, current or active state;  Disturbance in speech;  
+MEDICATIONS:  Triamcinolone 1 MG/ML Topical Cream{3};  Ibuprofen 20 MG/ML Oral Suspension{1};  Diphenhydramine 2.5 MG/ML Oral Solution [Diphen]{1};  Triamcinolone 0.25 MG/ML Topical Cream{1};  Clotrimazole 10 MG/ML Topical Cream{1};  
+LABS:  None 
+
+621799	1961-09-18	male	Diaz, Joshua
+PROBLEMS:  Coronary arteriosclerosis;  Disorder of lipid metabolism;  Paroxysmal ventricular tachycardia;  Tobacco dependence syndrome;  Angina;  Congestive heart failure;  Cardiomyopathy;  Chronic ischemic heart disease;  Dizziness and giddiness;  FH: Cardiac disorder;  Hyperlipidemia;  Old myocardial infarction;  Pure hypercholesterolemia;  
+MEDICATIONS:  None 
+LABS:  48 results
+
+
+6666001	2010-12-16	female	Reynolds, Sophia
+PROBLEMS:  None 
+MEDICATIONS:  Albuterol 0.09 MG/ACTUAT [Proventil]{0};  60 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]{0};  Prednisone Oral Tablet{0};  Singulair Pill{0};  
+LABS:  None 
+
+629528	1981-10-27	female	Harris, Michelle
+PROBLEMS:  Depressive disorder;  Cervical intraepithelial neoplasia grade 1;  Cervicitis and endocervicitis;  Human papilloma virus infection;  Papanicolaou smear of cervix with atypical squamous cells of undetermined significance (ASC-US);  
+MEDICATIONS:  Yasmin 28 Day Pack{6};  Escitalopram 10 MG Oral Tablet [Lexapro]{4};  
+LABS:  29 results
+
+
+1577780	1963-12-26	female	Allen, Carol
+PROBLEMS:  Disorder of breast;  Essential hypertension;  Primary malignant neoplasm of female breast;  Asthma;  Hypothyroidism;  History of tobacco use;  Primary malignant neoplasm of lower outer quadrant of female breast;  Diabetes mellitus type 2;  Toxic diffuse goiter;  Hyperlipidemia;  Vitiligo;  Alopecia Areata;  
+MEDICATIONS:  mesalamine 400 MG Enteric Coated Tablet [Asacol]{3};  irbesartan 150 MG Oral Tablet [Avapro]{4};  Simvastatin 40 MG Oral Tablet{3};  Thyroxine 0.2 MG Oral Tablet [Levothroid]{2};  24 HR venlafaxine 75 MG Extended Release Capsule [Effexor]{1};  Amoxicillin 875 MG / Clavulanate 125 MG Oral Tablet{1};  Tamoxifen 10 MG Oral Tablet{1};  Metformin 1000 MG / sitagliptin 50 MG Oral Tablet [Janumet 50/1000]{1};  200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir HFA]{1};  venlafaxine 75 MG Oral Tablet{2};  
+LABS:  85 results
+
+
+1685497	1969-10-21	male	Robinson, Richard
+PROBLEMS:  Chest pain;  Chest pain;  Epigastric pain;  FH: Cardiac disorder;  Fever and other physiologic disturbances of temperature regulation;  Gastro-esophageal reflux disease with esophagitis;  Nausea;  White blood cell disorder;  Essential hypertension;  Metabolic syndrome X;  Morbid obesity;  Benign essential hypertension;  Pure hypercholesterolemia;  Diabetes mellitus type 2;  Hyperlipidemia;  Low back pain;  
+MEDICATIONS:  Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet{47};  Niacin 500 MG Extended Release Tablet [Niaspan]{11};  Amoxicillin 875 MG Oral Tablet{1};  Niacin 1000 MG Extended Release Tablet [Niaspan]{2};  sibutramine 10 MG Oral Capsule [Meridia]{3};  rosuvastatin 10 MG Oral Tablet [Crestor]{4};  Methylprednisolone 4 MG Oral Tablet{0};  Cyclobenzaprine hydrochloride 10 MG Oral Tablet{1};  rosuvastatin 20 MG Oral Tablet [Crestor]{11};  zolpidem 10 MG Oral Tablet{2};  
+LABS:  None 
+
+736230	1946-01-17	female	Long, Mary
+PROBLEMS:  Hypothyroidism;  Disorder of breast;  Edema;  Menopausal syndrome;  Asymptomatic postmenopausal status (age-related) (natural);  
+MEDICATIONS:  Thyroxine 0.112 MG Oral Tablet [Synthroid]{7};  Thyroxine 0.1 MG Oral Tablet [Synthroid]{2};  Thyroxine 0.088 MG Oral Tablet [Synthroid]{18};  Cephalexin 500 MG Oral Capsule{1};  Acetaminophen 500 MG / Hydrocodone 5 MG Oral Tablet{3};  Amoxicillin 875 MG Oral Tablet{1};  Thyroxine 0.088 MG Oral Tablet{34};  Hydrochlorothiazide 12.5 MG Oral Capsule{8};  Triiodothyronine 0.005 MG Oral Tablet [Cytomel]{27};  Penicillin V Potassium 500 MG Oral Tablet{1};  zolpidem 10 MG Oral Tablet{15};  chlorhexidine gluconate 1.2 MG/ML Mouthwash{0};  Triiodothyronine 0.005 MG Oral Tablet{5};  Simvastatin 20 MG Oral Tablet{1};  
+LABS:  2 results
+
+
+897185	1994-07-08	male	Kelly, Kevin
+PROBLEMS:  Clinical finding;  Hyperlipidemia;  Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection;  Injury of head;  Closed fracture of malar AND/OR maxillary bones;  Chronic non-suppurative otitis media;  Acute bronchitis;  
+MEDICATIONS:  None 
+LABS:  None 
+
+1157764	1949-11-04	female	Hughes, Carol
+PROBLEMS:  Primary malignant neoplasm of female breast;  Adjustment disorder;  Crohn's disease of large bowel;  Recurrent major depressive episodes, moderate;  Acute sinusitis;  Hematuria syndrome;  Primary malignant neoplasm of central portion of female breast;  Primary open angle glaucoma;  Low tension glaucoma;  
+MEDICATIONS:  anastrozole 1 MG Oral Tablet [Arimidex]{27};  {4 (Risedronate 35 MG Oral Tablet [Actonel]) } Pack [Actonel 35]{29};  Nitrofurantoin 100 MG Oral Capsule{1};  bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]{1};  
+LABS:  15 results
+
+
+2042917	1981-12-18	male	Lewis, Michael
+PROBLEMS:  Asthma;  Sprain of ankle;  Vomiting;  Wheezing;  Abnormal weight loss;  Asthma;  Blood in stool;  Cocaine abuse;  Conduction disorder of the heart;  Essential hypertension;  Exacerbation of asthma;  Tobacco dependence syndrome;  
+MEDICATIONS:  None 
+LABS:  115 results
+
+
+4444001	1932-06-15	male	Sherman, Christopher
+PROBLEMS:  None 
+MEDICATIONS:  Acetaminophen 325 MG [Tylenol]{0};  Aspirin 81 MG [Ecotrin]{0};  Diclofenac Sodium 0.01 MG/MG Topical Gel [Voltaren]{0};  ferrous sulfate 325 MG [Feosol]{0};  Lisinopril 5 MG [Prinivil]{0};  Metformin hydrochloride 500 MG [Glucophage]{0};  metoprolol succinate 25 MG [Toprol]{0};  
+LABS:  None 
+
+1551992	1948-04-14	female	Coleman, Lisa
+PROBLEMS:  Chest pain;  Benign essential hypertension;  Hypertensive disorder;  Chronic obstructive lung disease;  Gout;  Follow-up encounter;  Onychomycosis due to dermatophyte;  Osteoarthrosis, unspecified whether generalized or localized, involving lower leg;  
+MEDICATIONS:  None 
+LABS:  48 results
+
+
+1540505	1964-01-21	female	Clark, Amy
+PROBLEMS:  Dyspepsia and other specified disorders of function of stomach;  Peptic ulcer without hemorrhage, without perforation AND without obstruction;  Abdominal pain;  Diabetes mellitus type 2;  Right upper quadrant pain;  Chest pain;  Absence of menstruation;  Acidosis;  Constipation;  Dehydration;  Gastroesophageal reflux disease;  Hypokalemia;  Other and unspecified noninfectious gastroenteritis and colitis;  Pure hypercholesterolemia;  Essential hypertension;  Headache;  
+MEDICATIONS:  None 
+LABS:  133 results
+
+
+967332	1965-08-09	male	Robinson, William
+PROBLEMS:  Asthma;  Diabetes mellitus type 2;  Hyperlipidemia;  Unspecified sleep apnea;  Benign essential hypertension;  Chest pain;  Coronary arteriosclerosis;  Essential hypertension;  Hypokalemia;  Preinfarction syndrome;  Coronary arteriosclerosis;  Pure hypercholesterolemia;  Acute bronchitis;  Needs influenza immunization;  
+MEDICATIONS:  montelukast 10 MG Oral Tablet [Singulair]{9};  glimepiride 2 MG Oral Tablet{6};  celecoxib 200 MG Oral Capsule [Celebrex]{10};  Ramipril 10 MG Oral Capsule [Altace]{2};  Niacin 500 MG Extended Release Tablet [Niaspan]{6};  rosuvastatin 10 MG Oral Tablet [Crestor]{1};  Doxycycline 100 MG Oral Capsule{1};  Simvastatin 40 MG Oral Tablet{2};  Ramipril 10 MG Oral Capsule{8};  Pramipexole 0.5 MG Oral Tablet [Mirapex]{14};  Atenolol 50 MG Oral Tablet{20};  Simvastatin 80 MG Oral Tablet{11};  clopidogrel 75 MG Oral Tablet [Plavix]{20};  Chantix First Month of Therapy Pack{1};  Chantix Continuing Months Of Therapy Pack{1};  Clarithromycin 500 MG Extended Release Tablet{2};  pantoprazole 40 MG Enteric Coated Tablet{9};  Niacin 1000 MG Extended Release Tablet [Niaspan]{9};  Metformin 750 MG Extended Release Tablet{6};  glimepiride 4 MG Oral Tablet{8};  Nitroglycerin 0.4 MG Sublingual Tablet{1};  
+LABS:  86 results
+
+
+7777703	2003-08-01	male	Luttrell, Paul
+PROBLEMS:  None 
+MEDICATIONS:  None 
+LABS:  2 results
+
+
+1869612	1950-07-31	male	Coleman, Anthony
+PROBLEMS:  Acute maxillary sinusitis;  Benign essential hypertension;  Otitis media;  Impotence of organic origin;  Superficial injury of cornea;  Acquired stenosis of nasolacrimal duct;  Accident;  Contusion of toe;  Diabetes mellitus type 2;  Chronic hepatitis C;  
+MEDICATIONS:  irbesartan 150 MG Oral Tablet [Avapro]{23};  glimepiride 1 MG Oral Tablet [Amaryl]{4};  Lisinopril 10 MG Oral Tablet{1};  glimepiride 2 MG Oral Tablet [Amaryl]{16};  Cefaclor 500 MG Oral Capsule{1};  glimepiride 2 MG Oral Tablet{9};  Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet{2};  Lisinopril 20 MG Oral Tablet{5};  Cephalexin 500 MG Oral Capsule{2};  
+LABS:  60 results
+
+
+1081332	2003-10-02	male	Ross, Joseph
+PROBLEMS:  Single liveborn, born in hospital, delivered without mention of cesarean section;  Acute upper respiratory infection;  Otitis media;  Other diseases of nasal cavity and sinuses;  Other and unspecified noninfectious gastroenteritis and colitis;  Diarrhea;  Fever and other physiologic disturbances of temperature regulation;  Hypovolemia;  Pneumonia;  Vomiting;  Chronic serous otitis media;  Acute secretory otitis media;  
+MEDICATIONS:  Amoxicillin 80 MG/ML Oral Suspension{1};  Amoxicillin 120 MG/ML / clavulanate potassium 8.58 MG/ML Oral Suspension{2};  Azithromycin 20 MG/ML Oral Suspension [Zithromax]{1};  cefdinir 25 MG/ML Oral Suspension [Omnicef]{2};  Ciprofloxacin 3 MG/ML / Dexamethasone 1 MG/ML Otic Suspension [Ciprodex]{1};  Amoxicillin 50 MG/ML Oral Suspension{0};  Sulfamethoxazole 40 MG/ML / Trimethoprim 8 MG/ML Oral Suspension [Sulfatrim]{0};  
+LABS:  None 
+
+724111	1991-06-07	female	Morgan, Amy
+PROBLEMS:  Acute frontal sinusitis;  Depressive disorder;  Oppositional defiant disorder;  Chronic sinusitis;  Attention deficit hyperactivity disorder;  Single major depressive episode, mild;  Hyperlipidemia;  Poliomyelitis vaccination;  Disruptive behavior disorder;  Single major depressive episode, moderate;  Child attention deficit disorder;  Recurrent major depressive episodes, moderate;  
+MEDICATIONS:  None 
+LABS:  None 
+
+1137192	1954-08-21	male	Williams, Joshua
+PROBLEMS:  Chronic ischemic heart disease;  Coronary arteriosclerosis;  Benign prostatic hyperplasia;  Anxiety;  Single major depressive episode, mild;  Abnormal ECG;  Abdominal pain;  Migraine with aura;  Visual disturbance;  Mononeuritis of lower limb;  
+MEDICATIONS:  benazepril 10 MG Oral Tablet{5};  Simvastatin 20 MG Oral Tablet{5};  Isosorbide Dinitrate 10 MG Oral Tablet{5};  Metoprolol 100 MG Oral Tablet{2};  Metoprolol 50 MG Oral Tablet{3};  Diazepam 10 MG Oral Tablet{1};  Methylprednisolone 4 MG Oral Tablet{1};  
+LABS:  57 results
+
+
+880378	1999-12-08	female	Lee, Amy
+PROBLEMS:  Abdominal pain;  Constipation;  Croup;  Otalgia;  Other dyspnea and respiratory abnormality;  Common cold;  Acute upper respiratory infection;  Otitis media;  Acute sinusitis;  Needs influenza immunization;  Hypertrophy of tonsils;  Cough;  
+MEDICATIONS:  Amoxicillin 120 MG/ML / clavulanate potassium 8.58 MG/ML Oral Suspension{1};  Amoxicillin 80 MG/ML Oral Suspension{1};  
+LABS:  None 
+
+644201	1943-12-20	female	Wilson, Donna
+PROBLEMS:  Disorder of bone and articular cartilage;  Essential hypertension;  Hyperlipidemia;  Urine finding;  Pain in limb;  Benign essential hypertension;  Osteoporosis;  
+MEDICATIONS:  Hydrochlorothiazide 12.5 MG Oral Capsule{21};  atorvastatin 20 MG Oral Tablet [Lipitor]{1};  Simvastatin 40 MG Oral Tablet{13};  
+LABS:  None 
+
+765583	1953-08-26	female	Cook, Ruth
+PROBLEMS:  Multiple joint pain;  Dizziness and giddiness;  Myalgia and myositis, unspecified;  Acute sinusitis;  Conjunctivitis;  Overlapping malignant neoplasm of female breast;  Primary malignant neoplasm of female breast;  Backache;  Breast lump;  Acute upper respiratory infection;  Hemorrhage AND/OR hematoma complicating procedure;  Seroma complicating a procedure;  
+MEDICATIONS:  Clonazepam 1 MG Oral Tablet{1};  Acetaminophen 300 MG / Codeine 30 MG Oral Tablet{1};  Acetaminophen 500 MG / Hydrocodone 5 MG Oral Tablet{4};  Dexamethasone 4 MG Oral Tablet{3};  Lorazepam 1 MG Oral Tablet{5};  Prochlorperazine 10 MG Oral Tablet{1};  Nystatin 100000 UNT/ML Oral Suspension{1};  Phenazopyridine 200 MG Oral Tablet{1};  famciclovir 500 MG Oral Tablet{1};  Methylprednisolone 4 MG Oral Tablet{1};  Desoximetasone 2.5 MG/ML Topical Cream{1};  Trazodone 50 MG Oral Tablet{4};  
+LABS:  138 results
+
+
+640264	1968-05-31	female	Moore, Kimberly
+PROBLEMS:  Hemorrhoids;  Hemorrhage of rectum and anus;  Irregular periods;  Unspecified disorders of menstruation and other abnormal bleeding from female genital tract;  Allergic rhinitis;  Acute sinusitis;  Cellulitis and abscess of unspecified sites;  Benign essential hypertension;  Malaise and fatigue;  
+MEDICATIONS:  None 
+LABS:  None 
+
+613876	1965-02-13	male	Hill, Joshua
+PROBLEMS:  Hypothyroidism;  Malaise and fatigue;  Arthralgia of the lower leg;  Disorder of bone and articular cartilage;  Nonspecific abnormal findings on radiological and other examination of musculoskeletal system;  Overexertion and strenuous movements;  Streptococcal sore throat;  Localized, primary osteoarthritis of the lower leg;  
+MEDICATIONS:  None 
+LABS:  None 
+

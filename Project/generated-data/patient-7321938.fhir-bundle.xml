@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART patient bundle for transactional posting</title>
+  <id>urn:uuid:28</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+
+  <entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Patient/7321938</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Patient xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Billie Himston</p>
+      </div>
+    </text>
+    <identifier>
+      <use value="usual"/>
+      <label value="SMART Hospital MRN"/>
+      <system value="urn:oid:0.1.2.3.4.5.6.7"/>
+      <value value="7321938"/>
+    </identifier>
+    <name>
+      <use value="official"/>
+      <family value="Himston"/>
+      <given value="Billie"/>
+      <given value="H."/>
+    </name>
+    <telecom>
+      <system value="email"/>
+      <value value="billi.himston@example.com"/>
+    </telecom>
+    <gender>
+      <coding>
+        <system value="http://hl7.org/fhir/v3/AdministrativeGender"/>
+        <code value="M"/>
+        <display value="Male"/>
+      </coding>
+    </gender>
+    <birthDate value="2010-12-16" />
+    <address>
+      <use value="home"/>
+      <line value="80 Mill StApt 21"/>
+      <city value="Sand Springs"/>
+      <state value="OK"/>
+      <zip value="74063"/>
+      <country value="USA"/>
+    </address>
+    <active value="true"/>
+  </Patient>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/3508-lab</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-16T06:39:00: Bilirub Skin-mCnc = 4 mg/dL</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="58941-6"/>
+        <display value="Bilirub Skin-mCnc"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="4.0"/>
+      <units value="mg/dL"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value=""/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-16T06:39:00"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/3509-lab</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-17T06:39:00: Bilirub Skin-mCnc = 14 mg/dL</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="58941-6"/>
+        <display value="Bilirub Skin-mCnc"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="14.0"/>
+      <units value="mg/dL"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value=""/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-17T06:39:00"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/3510-lab</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-17T12:39:00: Bilirub Skin-mCnc = 13.2 mg/dL</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="58941-6"/>
+        <display value="Bilirub Skin-mCnc"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="13.2"/>
+      <units value="mg/dL"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value=""/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-17T12:39:00"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/3511-lab</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-17T18:39:00: Bilirub Skin-mCnc = 12 mg/dL</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="58941-6"/>
+        <display value="Bilirub Skin-mCnc"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="12.0"/>
+      <units value="mg/dL"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value=""/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-17T18:39:00"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/3512-lab</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-18T18:39:00: Bilirub Skin-mCnc = 11 mg/dL</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="58941-6"/>
+        <display value="Bilirub Skin-mCnc"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="11.0"/>
+      <units value="mg/dL"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value=""/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-18T18:39:00"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/3513-lab</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-20T18:39:00: Bilirub Skin-mCnc = 8 mg/dL</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="58941-6"/>
+        <display value="Bilirub Skin-mCnc"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="8.0"/>
+      <units value="mg/dL"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value=""/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-20T18:39:00"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>SMART Patient-level resource</title>
+  <id>Observation/7321938-gestage</id>
+  <updated>2015-07-07T20:00:52.220000</updated>
+  <published>2015-07-07T20:00:52.220000</published>
+  <author>
+    <name>https://github.com/smart-on-fhir/sample-patients</name>
+  </author>
+  <content type="text/xml">
+    
+  <Observation xmlns="http://hl7.org/fhir">
+    <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">2010-12-16: Gestational age at birth = 30.6 weeks</div>
+    </text>
+    <name>
+      <coding>
+        <system value="http://loinc.org"/>
+        <code value="18185-9"/>
+        <display value="Gestational age at birth"/>
+      </coding>
+    </name>
+    <valueQuantity>
+      <value value="30.6"/>
+      <units value="weeks"/>
+      <system value="http://unitsofmeasure.org" />
+      <code value="wk"/>
+    </valueQuantity>
+    
+    <appliesDateTime value="2010-12-16"/>
+    <status value="final"/>
+    <reliability value="ok"/>
+    <subject>
+      <reference value="Patient/7321938"/>
+    </subject>
+  </Observation>
+  
+  </content>
+</entry>
+
+</feed>
